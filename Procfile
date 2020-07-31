@@ -1,1 +1,1 @@
-web: gunicorn robotechnics-digit-recognizer:app
+web: gunicorn cv_web_app:app
